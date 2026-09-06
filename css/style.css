@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* footer muhammadali */
+footer {
+    width: 1600px;
+    height: 432px;
+    background: linear-gradient(180deg, #67C3F3, #5A98F2);
+}
+
+.info {
+    position: absolute;
+    top: 118px;
+    left: 190px;
+}
+
+footer .info .main {
+    display: flex;
+    gap: 12px;
+}
+
+footer .info .main .log{
+    width: 41px;
+    height: 41px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    position: relative;
+}
+
+footer .info .main .log p {
+    color: #5B9BF3;
+    font-size: 26px;
+    position: absolute;
+    top: 6px;
+    left: 12px;
+}
+
+footer .info .main h1 {
+    font-size: 22px;
+    color: #FFFFFF;
+    margin-top: 8px;
+    font-family: monospace;
+}
+
+footer .info .onep {
+    width: 300px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+footer .info .twop {
+    width: 310px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+footer .company {
+    position: absolute;
+    top: 118px;
+    left: 620px;
+}
+
+footer .company h1 {
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    font-family: monospace;
+}
+
+footer .company p {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+footer .region {
+    position: absolute;
+    top: 118px;
+    left: 850px;
+}
+
+footer .region h1 {
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    font-family: monospace;
+}
+
+footer .region p {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+footer .help {
+    position: absolute;
+    top: 118px;
+    left: 1040px;
+}
+
+footer .help h1 {
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    font-family: monospace;
+}
+
+footer .help p {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+/* footer end */
